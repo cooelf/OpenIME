@@ -1,10 +1,10 @@
 
 
-Code and sample data accompanying the paper **[Open Vocabulary Learning for Neural Chinese Pinyin IME.](https://arxiv.org/abs/1811.04352)**
+Dataset and codes accompanying the paper **[Open Vocabulary Learning for Neural Chinese Pinyin IME.](https://arxiv.org/abs/1811.04352)**
 
 ## Dataset
 
- Two processed corpora for IME evaluation, ThePeople’s Daily corpus (PD) and the TouchPal corpus (TP) .
+ Two processed corpora for IME evaluation, the People’s Daily corpus (PD) and the TouchPal corpus (TP) .
 
 <table>
    <tr>
@@ -79,11 +79,11 @@ The full corpus and pre-trained vectors can be downloaded from https://drive.goo
 
 ## Source Code
 
-We also release our source code to help others reproduce our result, which is modified from [OpenNMT](https://github.com/OpenNMT/OpenNMT) with similar usage. 
+We also release our source codes to help others reproduce our result, which is modified from [OpenNMT](https://github.com/OpenNMT/OpenNMT) with similar usage. 
 
 ### Reference
 
-If you use this code please cite our paper:
+If you use this repo please cite our paper:
 
 ```
 @inproceedings{zhang2019acl-ime,
